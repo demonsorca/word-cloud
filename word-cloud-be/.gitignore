@@ -30,3 +30,6 @@ generated/
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+
+../word-cloud-frontend/node_modules/
